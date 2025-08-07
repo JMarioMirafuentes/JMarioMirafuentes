@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:ibmirafuentes@gmail.com"><img src="https://img.shields.io/badge/Email-ibmirafuentes@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/JMarioMirafuentes"><img src="https://img.shields.io/badge/GitHub-%40tuUsuario-black?style=flat-square&logo=github"></a>
+  <a href="https://github.com/JMarioMirafuentes"><img src="https://img.shields.io/badge/GitHub-%JMarioMirafuentes?style=flat-square&logo=github"></a>
   <img src="https://img.shields.io/badge/Teléfono-%2852%29932--110--7906-blue?style=flat-square&logo=phone" />
 </p>
 
