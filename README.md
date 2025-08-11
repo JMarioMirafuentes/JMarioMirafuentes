@@ -18,16 +18,27 @@ Desarrollador **Full Stack** con más de **4 años de experiencia** creando solu
 Apasionado por la **resolución de problemas**, la **mejora continua** y el **aprendizaje de nuevas tecnologías**.  
 
 💡 Actualmente trabajo con:
-- **Backend:** C#, .NET 7, Entity Framework, APIs REST
-- **Frontend:** Angular, React, TypeScript
-- **Base de Datos:** SQL Server, MySQL
-- **DevOps & Cloud:** Microsoft Azure, GitHub Actions
+- **Backend:** C#, .NET 7, Entity Framework, APIs REST, Python
+- **Frontend:** Angular, React, TypeScript, JavaScript
+- **Base de Datos:** SQL Server, MySQL, MongoDB
+- **DevOps & Cloud:** Microsoft Azure, GitHub Actions. GCP
 
 ---
 
 ## 🛠 Tecnologías & Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,html,css,bootstrap,py,java,nodejs,azure,mysql,postgres,git,github,linux,windows" />
+  <!-- Skillicons soportados -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,html,css,bootstrap,py,java,nodejs,azure,mysql,postgres,git,github,linux,windows,docker,tailwind,gcp,nginx,selenium" />
+</p>
+
+<p align="center">
+  <!-- Shields.io para los que no están en skillicons -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionos-003366?style=for-the-badge&logo=ionos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
