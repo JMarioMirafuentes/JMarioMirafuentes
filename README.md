@@ -1,103 +1,66 @@
 <h1 align="center">👨‍💻 José Mario Sánchez Mirafuentes</h1>
-<h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología y la mejora continua</h3>
+<h3 align="center">Full Stack Developer | C#, .NET, Angular, Azure</h3>
 
 <p align="center">
-  <a href="mailto:ibmirafuentes@gmail.com"><img src="https://img.shields.io/badge/Email-ibmirafuentes@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:ibmirafuentes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/JMarioMirafuentes">
-  <img src="https://img.shields.io/badge/GitHub-JMarioMirafuentes-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a>
-
-  <img src="https://img.shields.io/badge/Teléfono-%2852%29932--110--7906-blue?style=flat-square&logo=phone" />
+    <img src="https://img.shields.io/badge/GitHub-JMarioMirafuentes-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Phone-%2B52%20932--110--7906-blue?style=for-the-badge&logo=phone&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💼 Perfil Profesional
+## 🚀 Sobre mí
+Desarrollador **Full Stack** con más de **4 años de experiencia** creando soluciones escalables y de alto rendimiento.  
+Apasionado por la **resolución de problemas**, la **mejora continua** y el **aprendizaje de nuevas tecnologías**.  
 
-Desarrollador Full Stack con más de **4 años de experiencia** en el desarrollo de aplicaciones **web y de escritorio**, enfocado en la creación de soluciones **escalables**, **eficientes** y **orientadas al usuario**. Trabajo con tecnologías como **C#, .NET, Angular, SQL Server, Azure** y más.
-
-Soy un entusiasta de la **colaboración en equipo**, la **resolución de problemas complejos** y la mejora continua. Me encanta estar al tanto de nuevas tecnologías y aplicarlas a entornos reales.
-
----
-
-## 💼 Experiencia Profesional
-
-### 🏢 Ectotec SA de CV  
-**Desarrollador Full Stack** — *Enero 2023 – Actualidad*  
-- Desarrollo de aplicaciones web y de escritorio (.NET 7, NetCore).
-- Creación y consumo de APIs REST.
-- Frontend con Angular, React, HTML, CSS y Bootstrap.
-- Control de versiones con GitHub.
-- Diseño de bases de datos SQL Server (SPs, triggers, funciones).
-- Despliegues y servicios en Microsoft Azure.
+💡 Actualmente trabajo con:
+- **Backend:** C#, .NET 7, Entity Framework, APIs REST
+- **Frontend:** Angular, React, TypeScript
+- **Base de Datos:** SQL Server, MySQL
+- **DevOps & Cloud:** Microsoft Azure, GitHub Actions
 
 ---
 
-### 🏢 Brokins Ingenia  
-**Desarrollador Full Stack** — *Septiembre 2021 – Enero 2023*  
-- Desarrollo de APIs (.NET Core, Python).
-- Interfaces responsivas con HTML, CSS, JavaScript y Bootstrap.
-- Interfaces eficientes con TypeScript.
-- Bases de datos: MSSQL, MySQL.
-- Administración de servidores.
+## 🛠 Tecnologías & Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,html,css,bootstrap,py,java,nodejs,azure,mysql,postgres,git,github,linux,windows" />
+</p>
 
 ---
 
-### 🏢 Quality Analytics  
-**Desarrollador Jr. Full Stack** — *Junio 2021 – Octubre 2021*  
-- Desarrollo con Flask y MySQL.
-- Despliegue en Google Cloud Platform.
-- Metodologías ágiles con Trello.
+## 📌 Proyectos Destacados
+
+### 🌐 [NutriPlanet](https://github.com/JMarioMirafuentes/NutriPlanet)
+Aplicación hospitalaria para control de pacientes, seguimiento de consultas y gestión de documentos médicos.  
+**Tecnologías:** `.NET 7`, `Entity Framework`, `Angular`, `SQL Server`, `Azure`.
 
 ---
 
-### 🏢 REVESA Energy & Services S.A. de C.V.  
-**Desarrollador Junior** — *Abril 2020 – Agosto 2021*  
-- Desarrollo backend con C# y .NET Core.
-- Frontend con HTML, CSS, JQuery y TypeScript.
-- Patrones MVC y gestión de bases SQL Server.
-- Uso de Git, SourceTree, Trello.
+### 📊 [Inventario API](https://github.com/JMarioMirafuentes/InventarioAPI)
+API REST para la gestión de inventarios y control de stock, con autenticación y roles.  
+**Tecnologías:** `.NET Core`, `Entity Framework`, `Swagger`, `SQL Server`.
 
 ---
 
-## 🎓 Educación
-
-**Licenciatura en Informática**  
-*Instituto Tecnológico Superior de la Región Sierra*  
-📍 Teapa, Tabasco — *2003 – 2008*  
-**Cédula Profesional:** 5555308
+### 🗂 [Sistema de Seguimiento de Certificados](#)
+Sistema web con filtros persistentes, integración con APIs y control de datos dinámicos.  
+**Tecnologías:** `React`, `Formik`, `Material UI`, `.NET Core`.
 
 ---
 
-## 🧰 Tecnologías y Herramientas
-
-### 👨‍💻 Lenguajes
-`C#` `Python` `Java` `TypeScript` `JavaScript`
-
-### 🔧 Frameworks
-`.NET Core` `Angular` `Flask` `React` `Node.js`
-
-### 🎨 Frontend
-`HTML5` `CSS3` `Bootstrap` `AngularJS`
-
-### 💾 Bases de Datos
-`SQL Server` `MySQL`
-
-### ☁️ Nube
-`Microsoft Azure` `Google Cloud Platform`
-
-### ⚙️ DevOps y Herramientas
-`GitHub` `Trello` `SourceTree`
-
-### 🖥️ Sistemas Operativos
-`Windows` `Linux`
+## 📈 Mis Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMarioMirafuentes&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarioMirafuentes&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-
-## 🤝 ¡Conectemos!
-
-Si estás buscando un desarrollador apasionado por la tecnología, que trabaje bien en equipo y que se esfuerce constantemente por aprender y mejorar... ¡no dudes en contactarme!
-
-📧 ibmirafuentes@gmail.com | 📞 +52 932-110-7906  
-
+## 🌍 Conéctate conmigo
+📧 **Email:** ibmirafuentes@gmail.com  
+📞 **Teléfono:** +52 932-110-7906  
+🔗 **LinkedIn:** [linkedin.com/in/jose-mario-sanchez-mirafuentes](https://linkedin.com/in/jose-mario-sanchez-mirafuentes)  
